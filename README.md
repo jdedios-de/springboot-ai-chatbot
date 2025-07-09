@@ -99,7 +99,7 @@ User: {input}
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourname/springboot-ai-chatbot.git](https://github.com/jdedios-de/springboot-ai-chatbot.git)
+git clone https://github.com/jdedios-de/springboot-ai-chatbot.git
 cd springboot-ai-chatbot
 ```
 
