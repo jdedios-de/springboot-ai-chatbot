@@ -48,6 +48,9 @@ src
 
 ## 📩 Sample Request
 
+![image](https://github.com/user-attachments/assets/bd464e7a-ddd3-4374-8e8f-f27ed3510639)
+
+
 ### 🔸 Endpoint
 ```
 POST http://localhost:8080/chat
